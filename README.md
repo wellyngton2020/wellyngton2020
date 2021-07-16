@@ -1,12 +1,18 @@
+<!-- leave a STAR, if you like it ! -->
 
+<!-- Profile Views Counter -->
+![Profile Views](https://gpvc.arturio.dev/ejunior95?v=2)
+![Profile Views](https://gpvc.arturio.dev/ejunior95?v=3)
+<br>
+<!-- Intro  -->
+<h3 align="center">
+        <samp>< Hello World />!, I am
+                <b><a target="_blank" href="#">Edvaldo de Ramos Junior</a></b>
+        </samp>
 </h3>
 <br>
 <p align="center">
         <!-- Organisation  -->
-        <samp>
-                    <samp>< Hello World />!, I am
-                <b><a target="_blank" href="#">Wellyngton Cassemiro</a></b>
-        </samp>
                 「 From Sorocaba, SP (Brasil) 」
                 <br>
                 「 Front-End Developer, Computer Science Student @<b> Universidade Paulista - UNIP</b> 」
@@ -106,6 +112,6 @@
     <p align="center">
         ════ ⋆★⋆ ════
         <br>
-        "Always Hacking!"
+        "always studying!"
     </p>
 </samp>
