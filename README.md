@@ -40,3 +40,4 @@
         <!-- Adobe Photoshop -->
         <a href="https://github.com/ejunior95?tab=repositories" target="_blank"><img alt="Photoshop"
                         src="https://img.shields.io/badge/-AdobePhotoshop-0672CB?style=flat&logo=Adobe-Photoshop&logoColor=white">
+          </p>
